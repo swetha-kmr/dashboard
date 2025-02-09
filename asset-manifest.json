@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/swetha-kmr/dashboard/static/css/main.bf9aa95b.css",
-    "main.js": "/swetha-kmr/dashboard/static/js/main.73208c1d.js",
+    "main.js": "/swetha-kmr/dashboard/static/js/main.7cb7bef7.js",
     "index.html": "/swetha-kmr/dashboard/index.html",
     "main.bf9aa95b.css.map": "/swetha-kmr/dashboard/static/css/main.bf9aa95b.css.map",
-    "main.73208c1d.js.map": "/swetha-kmr/dashboard/static/js/main.73208c1d.js.map"
+    "main.7cb7bef7.js.map": "/swetha-kmr/dashboard/static/js/main.7cb7bef7.js.map"
   },
   "entrypoints": [
     "static/css/main.bf9aa95b.css",
-    "static/js/main.73208c1d.js"
+    "static/js/main.7cb7bef7.js"
   ]
 }
