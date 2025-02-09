@@ -1,7 +1,7 @@
 {
   "name": "Forstore",
   "version": "0.1.0",
-  "homepage": "https://github.com/swetha-kmr/dashboard",
+  "homepage": "https://swetha-kmr.github.io/dashboard",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -29,7 +29,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "clean": "rm -rf build"
   },
   "eslintConfig": {
     "extends": [
