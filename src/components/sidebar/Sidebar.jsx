@@ -44,7 +44,7 @@ const Sidebar = () => {
           </Link>
           
         
-          <Link to="./dashboard/#/users/singleContainer" style={{ textDecoration: "none" }}>
+          <Link to="./singleContainer" style={{ textDecoration: "none" }}>
             <li>
             <CreditCardIcon className="icon" />
             <span>Orders</span>
